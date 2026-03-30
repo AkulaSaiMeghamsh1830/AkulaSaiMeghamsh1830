@@ -17,7 +17,7 @@
 
 ## 🧠 About Me  
 
-Aspiring Data Science professional with a strong passion for uncovering insights from data and translating them into actionable solutions. Experienced in machine learning and analytical problem solving, with hands-on exposure to building real-world applications. Driven to leverage data science techniques to solve complex challenges and contribute to impactful, technology-driven projects.
+Data Science professional and multidisciplinary builder passionate about transforming data into actionable insights and intelligent solutions. Experienced in machine learning, analytical problem solving, and developing real-world applications. Focused on building data-driven and AI-powered systems to solve complex challenges and create impactful, technology-driven innovations.
 
 ---
 
