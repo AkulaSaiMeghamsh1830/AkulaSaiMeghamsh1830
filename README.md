@@ -102,7 +102,7 @@ Python, Flask, JavaScript, ArcGIS, SGP4
 
 **Achievements & Link:**  
 MARKXXIV Hackathon Winner | SIH Finalist  
-🔗 [Space Sustainability](https://github.com/meghamsh1830/Space-Sustainability-Averting-collisions-between-satellites-and-space-debris?tab=readme-ov-file)  
+🔗 [Space Sustainability](https://github.com/AkulaSaiMeghamsh1830/Space-Sustainability-Averting-collisions-between-satellites-and-space-debris..git)  
 
 ---
 
